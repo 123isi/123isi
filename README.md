@@ -1,5 +1,4 @@
-[[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={123isi})](https://solved.ac/123isi)](http://mazassumnida.wtf/api/v2/generate_badge?boj=123isi)](https://solved.ac/123isi/
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123isi)](https://solved.ac/123isi/)
 
 )
 <!--
