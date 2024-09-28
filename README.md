@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123isi)](https://solved.ac/123isi/)
 
-)
+
 <!--
 **123isi/123isi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
